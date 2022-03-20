@@ -4,14 +4,14 @@
 
 Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
 ------------  | ------------------- | ----- | ---------------------
-Maja Matešić | mmatesic20@foi.hr | 0016148202 | mmatesic20
+Maja Matešić  | mmatesic20@foi.hr  |0016148202| mmatesic20
 
 
 ## Opis domene
-Umjesto ovih uputa vlastitim riječima opišite domenu ili problem koji pokriva projekt za vaše zadaće. 
+Fakultet organizacije i informatike 
 
 ## Specifikacija projekta
-Umjesto ovih uputa vlastitim riječima opišite zahtjeve za funkcionalnošću programskog proizvoda.
+Softver ima log in sučelje gdje aplikacija prepoznaje razliku između administr
 
 ## Zadatak
 U root repozitorija učitajte zadatak koji ste dobili i potom ovdje stavite link na njegovo otvaranje.
