@@ -14,7 +14,7 @@ Naziv softvera je <b><i>Registar opreme</b></i> i radi se o potpuno novom rješe
 Softver ima log in sučelje gdje aplikacija prepoznaje razliku između administrator i korisnika. Funkcijski je softver tu da pokrije polje djelovanja fakulteta koje je od strane djelatnika do sada možda zanemareno i ovim se softverom i centralnim skladištenjem sve opreme potiče na kreativu i iskorištavanje tehničke opreme u vlasništvu fakulteta. 
 
 ## Zadatak
-
+https://github.com/foivz/pi22-zadace-majamatesic/blob/8f7fe5231d412af167fb5979c8547cd9e2022ad0/Korisni%C4%8Dki%20zahtjevi%20-%20registar%20opreme-1.pdf
 
 ## Resursi
  
