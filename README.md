@@ -15,7 +15,7 @@ Aspekti upotrebe našeg proizvoda su, dakle, zaposlenici koji žele eksperimenti
 
 ## Zadatak
 https://github.com/foivz/pi22-zadace-majamatesic/blob/8f7fe5231d412af167fb5979c8547cd9e2022ad0/Korisni%C4%8Dki%20zahtjevi%20-%20registar%20opreme-1.pdf
-
+WIKI: https://github.com/foivz/pi22-zadace-majamatesic.wiki.git
 ## Resursi
 
 Github Markdown sintaksa dostupna je na [ovom linku](https://guides.github.com/features/mastering-markdown/) 
