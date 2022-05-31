@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="mmatesic20_DBModelStoreContainer" CdmEntityContainer="mmatesic20_DBEntities1">
+    <EntitySetMapping Name="Oprema">
+      <EntityTypeMapping TypeName="mmatesic20_DBModel.Oprema">
+        <MappingFragment StoreEntitySet="Oprema">
+          <ScalarProperty Name="ID_oprema" ColumnName="ID_oprema" />
+          <ScalarProperty Name="nazivOpreme" ColumnName="nazivOpreme" />
+          <ScalarProperty Name="vrstaOpreme" ColumnName="vrstaOpreme" />
+          <ScalarProperty Name="kolicinaJediniceOpreme" ColumnName="kolicinaJediniceOpreme" />
+          <ScalarProperty Name="dostupnoOpreme" ColumnName="dostupnoOpreme" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

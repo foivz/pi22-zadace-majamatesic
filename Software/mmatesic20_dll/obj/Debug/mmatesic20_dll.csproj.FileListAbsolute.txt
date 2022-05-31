@@ -1,0 +1,6 @@
+C:\Users\majam\source\repos\Registar_opreme\mmatesic20_dll\bin\Debug\mmatesic20_dll.dll
+C:\Users\majam\source\repos\Registar_opreme\mmatesic20_dll\bin\Debug\mmatesic20_dll.pdb
+C:\Users\majam\source\repos\Registar_opreme\mmatesic20_dll\obj\Debug\mmatesic20_dll.csproj.AssemblyReference.cache
+C:\Users\majam\source\repos\Registar_opreme\mmatesic20_dll\obj\Debug\mmatesic20_dll.csproj.CoreCompileInputs.cache
+C:\Users\majam\source\repos\Registar_opreme\mmatesic20_dll\obj\Debug\mmatesic20_dll.dll
+C:\Users\majam\source\repos\Registar_opreme\mmatesic20_dll\obj\Debug\mmatesic20_dll.pdb
